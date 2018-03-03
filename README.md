@@ -1,5 +1,5 @@
 # Shopping Web Scrapper
-Web scrapper to keep track of prices, using Beautiful Soup.
+Web scrapper to keep track of prices on YesStyle, using Beautiful Soup.
 
 ### To do (Feb/20/18):
 - [x] Import urls from a separate txt file, instead of placing them in main program.
